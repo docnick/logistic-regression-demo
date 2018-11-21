@@ -49,7 +49,7 @@ seaborn==0.7.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
-sklearn==0.0
+sklearn
 tensorboard==1.8.0
 tensorflow==1.8.0
 termcolor==1.1.0
